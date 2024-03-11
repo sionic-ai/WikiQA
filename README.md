@@ -18,13 +18,14 @@
 - 약 1/3의 질문에는 정답이 포함되어 있지 않아 정답이 존재하는지 감지하는 평가 세트로 활용할 수 있음
 
 # 예제
+영어와 한국어 번역문이 병렬로 구성되어 있음
 | question_id | question_EN | document_title_EN | answer_EN | label | question | document_title | answer |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Q8 | How are epithelial tissues joined together? | Tissue (biology) | Cross section of sclerenchyma fibers in plant ground tissue | 0 | 상피 조직은 어떻게 결합되나요? | 조직(생물학) | 식물 지상 조직의 경피질 섬유 단면도 |
 | Q8 | How are epithelial tissues joined together? | Tissue (biology) | Microscopic view of a histologic specimen of human lung tissue stained with hematoxylin and eosin . | 0 | 상피 조직은 어떻게 결합되나요? | 조직(생물학) | 헤마톡실린과 에오신으로 염색된 인간 폐 조직의 조직학적 표본을 현미경으로 관찰한 모습 . |
 
 
-# 원 데이터 링크 
+# 영어 데이터 링크 
 https://huggingface.co/datasets/wiki_qa
 
 
