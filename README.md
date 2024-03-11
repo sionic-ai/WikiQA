@@ -28,6 +28,9 @@
 # 영어 데이터 링크 
 https://huggingface.co/datasets/wiki_qa
 
+# 번역기
+반복되는 질문들이 많아서 일관성 있는 번역을 위해 CAT(Computer-assisted translation) 도구 
+https://us.cloud.memsource.com/의 기계 번역 엔진	Phrase Language AI 사용
 
 # 관련 논문
 ```
