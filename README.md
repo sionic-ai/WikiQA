@@ -1,5 +1,5 @@
 # WikiQA
-
+WikiQA: A Challenge Dataset for Open-Domain Question Answering 데이터 세트에 대한 한국어 번역
 ## 데이터 구성
  | Class | 개수 |
 | --- | --- |
